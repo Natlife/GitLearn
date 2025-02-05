@@ -1,0 +1,9 @@
+h1{
+    background-color: brown;
+     border-radius: 10px;
+      border: 2px;
+       text-align: center; 
+}
+#but:hover{
+    background-color: rebeccapurple;
+}
